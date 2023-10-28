@@ -1,0 +1,22 @@
+{
+  "name": "ws-sicherheitsgefuehl",
+  "version": "1.0.0",
+  "description": "the websocket backend of https://github.com/UnlegitSenpaii/sicherheitsgefuehl",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnlegitSenpaii/ws-sicherheitsgefuehl.git"
+  },
+  "author": "senpaii@senpaii.dev",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/UnlegitSenpaii/ws-sicherheitsgefuehl/issues"
+  },
+  "homepage": "https://github.com/UnlegitSenpaii/ws-sicherheitsgefuehl#readme",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
